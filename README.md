@@ -79,6 +79,16 @@ Proactive, motivated, hardworking and capacity for effective communication.
 
 ## Experience
 
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
+<img align="right" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+
+  - 👨‍💻 **Junior QA/QC Engineer**\
+📆 Jul 2021 - Present\
+📍 **Innovate Tech - My Second Teacher** - Baluwatar/Kathmandu, Nepal
+  
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
