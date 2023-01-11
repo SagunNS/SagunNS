@@ -85,8 +85,8 @@ Proactive, motivated, hardworking and capacity for effective communication.
 <img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 
-  - 👨‍💻 **Junior QA/QC Engineer**\
-📆 Jul 2021 - Present\
+  - 👨‍💻 **Associate QA/QC Officer**\
+📆 Jan 2021 - Present\
 📍 **Innovate Tech - My Second Teacher** - Baluwatar/Kathmandu, Nepal
   
 <img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
