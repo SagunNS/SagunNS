@@ -65,48 +65,14 @@ Proactive, motivated, hardworking and capacity for effective communication.
 
 ## Education
 
-- 📖 **BSc.(Hons) in Computing**\
-📆 2017 - 2020\
-📍 **Islington College** - Kamalpokhari/Kathmandu, Nepal
-
-- 📖 **+2 Management**\
-📆 2016 - 2017\
-📍 **Trinity Higher Secondary School** - Dillibazar/Kathmandu, Nepal
-
-- 📖 **School Leaving Certificate**\
-📆 2005 - 2015\
-📍 **N.K Singh Memorial EPS School** - Minbhawan/Kathmandu, Nepal
+- 📖 **Course**\
+📆 From Year - To Year\
+📍 **College** - Location 
 
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
-<img align="right" src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-
-  - 👨‍💻 **Associate QA/QC Officer**\
-📆 Jan 2021 - Present\
-📍 **Innovate Tech - My Second Teacher** - Baluwatar/Kathmandu, Nepal
+  - 👨‍💻 **Position**\
+ 📆 From Month Year- To\
+📍 **Office Name** - Location
   
-<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
-  
-- 👨‍💻 **ASP .NET Developer Intern**\
-📆 Aug 2019 - Nov 2019\
-📍 **BMP Infology** - Baluwatar/Kathmandu, Nepal
-
-<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white" />
-
-
-- 👨‍💻 **Counsellor**\
-📆 May 2017 - July 2017\
-📍 **Rajdhani Academy Kathmandu H.S. School** - Old-Baneshwor/Kathmandu, Nepal
-
 </details>
